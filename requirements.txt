@@ -1,0 +1,4 @@
+# 1. Latest Version for requets
+# to install use pip install -r requirements.txt
+
+requests
